@@ -6,6 +6,14 @@ I enjoy turning real workflows into focused, approachable software—from AI
 usage monitoring and lightweight data utilities to tools for electronic music
 hardware.
 
+## Knowledge base
+
+### [Ulrich-Wiki.com](https://ulrich-wiki.com/)
+
+A German-language IT knowledge base accompanying my Fachinformatiker training,
+with practical learning material on networking, Linux, Windows, system
+administration, programming, IT service management, and project management.
+
 ## Featured projects
 
 ### [AI Usage Widget](https://github.com/UlrichLab/AI-Usage-Widget)
