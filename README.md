@@ -1,6 +1,6 @@
 # Hi, 👋
 
-I'm Building practical AI, data, automation, and music tools for macOS and Windows.
+I'm building practical AI, data, automation, and music tools for macOS and Windows.
 
 I enjoy turning real workflows into focused, approachable software—from AI
 usage monitoring and lightweight data utilities to tools for electronic music
